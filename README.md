@@ -1,6 +1,6 @@
 # Read me - Flowchart
 
-To fully enjoy this repository, we recommend you to read file in the following order:
+To fully enjoy this repository, we recommend you to read files in the following order:
 
  1. [`README.md`](README.md) - this file
  2. [`FinalProject_ProcessBook_General.ipynb`](FinalProject_ProcessBook_General.ipynb) - A summary of our method and result
