@@ -3,7 +3,7 @@
 To fully enjoy this repository, we recommend you to read files in the following order:
 
  1. [`README.md`](README.md) - this file
- 2. [`FinalProject_ProcessBook_General.ipynb`](FinalProject_ProcessBook_General.ipynb) - A summary of our method and result
+ 2. [`FinalProject_ProcessBook_General.ipynb`](FinalProject_ProcessBook_General.ipynb) - a summary of our method and result
  3. [`Data_Exploration.ipynb`](Data_Exploration.ipynb) - data exploration and refinement
  
 	##### The following three notebooks use files in [`data`](data) folder.
