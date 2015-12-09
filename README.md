@@ -10,4 +10,4 @@ To fully enjoy this repository, we recommend you to read file in the following o
  6.  [`userkNN.ipynb`](userkNN.ipynb) - codes for kNN method with user similarity
 	- In order to run this notebook (faster) you need files in `knn-file` folder.
 
-Also, please visit our cool [website - clique-cs109.github.io](http://clique-cs109.github.io)!
+Also, please visit our cool [website - clique-cs109.github.io](http://clique-cs109.github.io)! Don't forget to watch our cool [screencast video](https://youtu.be/Zjm2z99ru_E) too.
